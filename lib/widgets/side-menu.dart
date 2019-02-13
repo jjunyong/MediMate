@@ -66,7 +66,7 @@ class _SideMenuState extends State<SideMenu>{
                   Navigator.pushNamed(context, '/vital');
                 },
                 child: ListTile(
-                  title: Text('Vital signs'), 
+                  title: Text('Statistics'), 
                   leading: Icon(Icons.data_usage)
                 )
               ),
