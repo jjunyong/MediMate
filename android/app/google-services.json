@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "613456989353",
+    "firebase_url": "https://kpi-medimate-9c8e4.firebaseio.com",
+    "project_id": "kpi-medimate-9c8e4",
+    "storage_bucket": "kpi-medimate-9c8e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613456989353:android:b140935d6d3ce32a",
+        "android_client_info": {
+          "package_name": "com.example.kpi.medimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613456989353-2e6r5nr1ofgs6ig7g2gm1di5flg1rb5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJsK4uiIVLyscuCr2L0l_pOCw54dhtVNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613456989353:android:11035ecb1243dfa8",
+        "android_client_info": {
+          "package_name": "com.example.medimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613456989353-2e6r5nr1ofgs6ig7g2gm1di5flg1rb5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJsK4uiIVLyscuCr2L0l_pOCw54dhtVNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
